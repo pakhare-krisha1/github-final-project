@@ -1,0 +1,8 @@
+ git switch main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+PS C:\Users\Dell\github-final-project> git merge bug-fix-typo
+Updating 3398248..0e4e25f
+Fast-forward
+ simple-interest.sh | 15 ++++++++++++---
+ 1 file changed, 12 insertions(+), 3 deletions(-)
